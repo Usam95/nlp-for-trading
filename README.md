@@ -6,7 +6,9 @@ This project focuses on testing two main hypotheses concerning financial returns
 The main hypotheses under consideration in this project are:
 
 H0: Returns of firms with stronger net positive tone are statistically equal to the returns of firms with weaker net positive tone.
+
 H1: Returns of firms with stronger net positive tone are statistically greater than the returns of firms with weaker net positive tone.
+
 A financial return, in simple terms, is the money made or lost on an investment over some period of time. It is calculated as the change in dollar value of an investment, including any cash flows such as dividends, divided by the initial investment amount, and is often expressed as a percentage.
 
 In the context of this project, we extract and preprocess the data from Item 7 of 10-K reports and estimate the sentiment (or tone) given in these reports. By doing so, we aim to investigate if there is any correlation between the sentiment of these reports and the returns of the respective firms.
